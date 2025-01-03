@@ -9,6 +9,9 @@ mkdir ~/.local/bin/
 sh -c "curl -L https://github.com/com-lihaoyi/mill/releases/download/0.12.5/0.12.5 > ~/.local/bin/mill && chmod +x ~/.local/bin/mill"
 
 ```
+## scala CLI
+[here](https://scala-cli.virtuslab.org/install/)
+
 ## openjdk
 ```sudo apt install openjdk-17-jdk```
 
